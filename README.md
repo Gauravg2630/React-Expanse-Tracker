@@ -29,7 +29,7 @@ A modern and responsive **Expense Tracker App** built with **React** and **React
 
 | 💡 Light Mode | 🌙 Dark Mode |
 |---------------|-------------|
-| ![Light](./screenshots/.png) | ![Dark](./screenshots/dark-mode.png) |
+| ![Light](./Screenshot%20(400).png) | ![Dark](./Screenshot%20(406).png) |
 
 *(Add screenshots manually if needed)*
 
@@ -53,10 +53,10 @@ index.js
 ## 🧪 How to Run Locally
 #
 1. Clone the repository
-git clone https://github.com/your-username/expense-tracker-app.git
+git clone https://github.com/Gauravg2630/React-Expense-Tracker.git
 
 # 2. Navigate to the project folder
-cd expense-tracker-app
+cd React-Expense-Tracker
 
 # 3. Install dependencies
 npm install
